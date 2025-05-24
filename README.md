@@ -36,4 +36,4 @@ Following are the Confusion Matrices of the best performers (out of 4 models und
 
 
 
-**FOR DATASETS (RAW + GAN BALANCED), PRETRAINED MODELS, AND OTHER SUPPLEMENTARIES VISIT https://drive.google.com/drive/folders/1VkXbmUSf1UYOKgZfFmKMxCOeYypEg5WJ**
+**FOR DATASETS (RAW + GAN BALANCED), TRAINED MODELS, AND OTHER SUPPLEMENTARIES VISIT https://drive.google.com/drive/folders/1VkXbmUSf1UYOKgZfFmKMxCOeYypEg5WJ**
